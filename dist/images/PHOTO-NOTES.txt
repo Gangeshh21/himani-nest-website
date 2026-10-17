@@ -1,0 +1,1 @@
+Property photos are named descriptively and the logo is logo.jpeg. The gallery uses evenly sized tiles so the photos line up consistently on desktop and mobile. To change image order, edit the photos array in src/main.jsx.
